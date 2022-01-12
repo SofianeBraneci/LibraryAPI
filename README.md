@@ -103,8 +103,8 @@ Ex:
 ```json
 [{"_id":"61dadb48f1a678f56bd94ec9","title":"The 1992 CIA World Factbook","authors":[{"name":"United States. Central Intelligence Agency","birth_year":null,"death_year":null}],"subjects":["Geography -- Handbooks, manuals, etc.","Political science -- Handbooks, manuals, etc.","Political statistics -- Handbooks, manuals, etc.","World politics -- Handbooks, manuals, etc."],"formats":{"application/epub+zip":"https://www.gutenberg.org/ebooks/48.epub.images","application/rdf+xml":"https://www.gutenberg.org/ebooks/48.rdf","text/plain":"https://www.gutenberg.org/ebooks/48.txt.utf-8","application/x-mobipocket-ebook":"https://www.gutenberg.org/ebooks/48.kindle.images","text/html":"https://www.gutenberg.org/ebooks/48.html.images","image/jpeg":"https://www.gutenberg.org/cache/epub/48/pg48.cover.small.jpg","application/zip":"https://www.gutenberg.org/files/48/48.zip","text/plain; charset=us-ascii":"https://www.gutenberg.org/files/48/48.txt"}}]
 ```
-## Futur Improvments
-- Book recommandation
+## Future Improvements
+- Book recommendation
 - Search for a book in a specific language
 - Search for book that were writen in some range of years
 - Improve performance and reponse time (Indexing in mongodb)
